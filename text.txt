@@ -8,6 +8,7 @@ three ways to push your files or projects into github
 => we can push only upto basic js and html,css files.
 => this method not suits for big projects
 
+
 2. vs code source control method.
 publish to github
 => no need to create a new repo in github page n=by ourself
