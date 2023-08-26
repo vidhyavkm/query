@@ -19,8 +19,12 @@ publish to github
 git init
 git remote add origin https:/link given by github
 git add .
-git commit
-git push
+git commit -m "commit msg"
+git push -u origin main
+
+after giving "git push" it gives u one command , try that command.(git push setupstream like this)
+git push -u origin main => if error comes in this method, try master instead of main.
+
  
 if remote already exists, try this command "git remote remove origin"
 again give git remote command
